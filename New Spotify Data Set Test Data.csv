@@ -1,7 +1,7 @@
-Country,Popularity,Title,Artist,Album/Single,Genre,Album,danceability,energy,tempo,duration_ms,time_signature,Genre_new
-Argentina,76924.4,adan y eva,Paulo Londra,single,argentine hip hop,Adan y Eva,0.767,0.709,171.993,258639,4,hip hop
-Belgium,849.6,adan y eva,Paulo Londra,single,argentine hip hop,Adan y Eva,0.767,0.709,171.993,258639,4,hip hop
-Switzerland,20739.1,adan y eva,Paulo Londra,single,argentine hip hop,Adan y Eva,0.767,0.709,171.993,258639,4,hip hop
+id, Country,Popularity,Title,Artist,Album/Single,Genre,Album,danceability,energy,tempo,duration_ms,time_signature,Genre_new
+ARG, Argentina,76924.4,adan y eva,Paulo Londra,single,argentine hip hop,Adan y Eva,0.767,0.709,171.993,258639,4,hip hop
+BE, Belgium,849.6,adan y eva,Paulo Londra,single,argentine hip hop,Adan y Eva,0.767,0.709,171.993,258639,4,hip hop
+CH, Switzerland,20739.1,adan y eva,Paulo Londra,single,argentine hip hop,Adan y Eva,0.767,0.709,171.993,258639,4,hip hop
 Chile,60264.2,adan y eva,Paulo Londra,single,argentine hip hop,Adan y Eva,0.767,0.709,171.993,258639,4,hip hop
 Colombia,60131.15,adan y eva,Paulo Londra,single,argentine hip hop,Adan y Eva,0.767,0.709,171.993,258639,4,hip hop
 Costa Rica,64081.3,adan y eva,Paulo Londra,single,argentine hip hop,Adan y Eva,0.767,0.709,171.993,258639,4,hip hop

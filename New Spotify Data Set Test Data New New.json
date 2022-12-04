@@ -1,0 +1,58 @@
+[
+ {
+   "country": "ARG",
+   "tempo": 180
+ },
+ {
+   "country": "BEL",
+   "tempo": 178
+ },
+ {
+   "country": "CHE",
+   "tempo": 176
+ },
+ {
+   "country": "CHL",
+   "tempo": 174
+ },
+ {
+   "country": "COL",
+   "tempo": 172
+ },
+ {
+   "country": "CRI",
+   "tempo": 170
+ },
+ {
+   "country": "DEU",
+   "tempo": 168
+ },
+ {
+   "country": "ECU",
+   "tempo": 166
+ },
+ {
+   "country": "ESP",
+   "tempo": 164
+ },
+ {
+   "country": "USA",
+   "tempo": 162
+ },
+ {
+   "country": "UZB",
+   "tempo": 160
+ },
+ {
+   "country": "VEN",
+   "tempo": 158
+ },
+ {
+   "country": "ZWE",
+   "tempo": 156
+ },
+ {
+   "country": "TUR",
+   "tempo": 154
+ }
+]

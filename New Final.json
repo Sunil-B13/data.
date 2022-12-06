@@ -432,7 +432,7 @@
    "Average of danceability": 0.399
  },
  {
-   "country": "GER",
+   "country": "DEU",
    "Country full": "Germany",
    "Average of tempo": 124.0299489,
    "Average of liveness": 0.21534569,
@@ -1080,7 +1080,7 @@
    "Average of danceability": 0.4365
  },
  {
-   "country": "SPA",
+   "country": "ESP",
    "Country full": "Spain",
    "Average of tempo": 123.3357164,
    "Average of liveness": 0.206013539,
@@ -1200,7 +1200,7 @@
    "Average of danceability": 0.421883721
  },
  {
-   "country": "UNI",
+   "country": "GBR",
    "Country full": "United Kingdom",
    "Average of tempo": 124.8860959,
    "Average of liveness": 0.190306813,

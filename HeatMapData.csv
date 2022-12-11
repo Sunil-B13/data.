@@ -1,11 +1,11 @@
 Comp X,Comp Y,Correlation
 Energy,Energy,1
-Energy,Speechiness,-0.7
+Energy,Speechiness,-1
 Energy,Instrumentalness,0.6
 Energy,Valence,0.5
 Energy,Tempo,0.9
 Energy,Popularity,0.5
-Speechiness,Energy,-0.7
+Speechiness,Energy,-1
 Speechiness,Speechiness,1
 Speechiness,Instrumentalness,-0.7
 Speechiness,Valence,0.8

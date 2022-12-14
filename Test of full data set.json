@@ -7,7 +7,7 @@
    "Average of liveness": 0.263343891,
    "Average of valence": 0.54610905,
    "Average of popularity": 27.86096257,
-   "Average of acousticness": 0.330261128,
+   "Average of acousticness": 0.830261128,
    "Average of speechiness": 0.06794385,
    "Average of energy": 0.650703159,
    "Average of danceability": 0.531929659
@@ -20,7 +20,7 @@
    "Average of liveness": 0.22210108,
    "Average of valence": 0.403712731,
    "Average of popularity": 34.82330247,
-   "Average of acousticness": 0.202893117,
+   "Average of acousticness": 0.902893117,
    "Average of speechiness": 0.08183642,
    "Average of energy": 0.720264946,
    "Average of danceability": 0.505483333
@@ -33,7 +33,7 @@
    "Average of liveness": 0.2535,
    "Average of valence": 0.35975,
    "Average of popularity": 35.5,
-   "Average of acousticness": 0.27575,
+   "Average of acousticness": 0.77575,
    "Average of speechiness": 0.202225,
    "Average of energy": 0.55,
    "Average of danceability": 0.64475
@@ -46,7 +46,7 @@
    "Average of liveness": 0.184862512,
    "Average of valence": 0.66131687,
    "Average of popularity": 17.98781631,
-   "Average of acousticness": 0.166004703,
+   "Average of acousticness": 0.66004703,
    "Average of speechiness": 0.122799157,
    "Average of energy": 0.714448922,
    "Average of danceability": 0.723812465
@@ -59,7 +59,7 @@
    "Average of liveness": 0.205363492,
    "Average of valence": 0.514979365,
    "Average of popularity": 34.9047619,
-   "Average of acousticness": 0.200677546,
+   "Average of acousticness": 0.677546,
    "Average of speechiness": 0.063106349,
    "Average of energy": 0.715961905,
    "Average of danceability": 0.554506349
@@ -72,7 +72,7 @@
    "Average of liveness": 0.21,
    "Average of valence": 0.379,
    "Average of popularity": 68,
-   "Average of acousticness": 0.0462,
+   "Average of acousticness": 0.462,
    "Average of speechiness": 0.219,
    "Average of energy": 0.854,
    "Average of danceability": 0.779
@@ -85,7 +85,7 @@
    "Average of liveness": 0.178933437,
    "Average of valence": 0.417562848,
    "Average of popularity": 28.05263158,
-   "Average of acousticness": 0.196680667,
+   "Average of acousticness": 0.996680667,
    "Average of speechiness": 0.083488235,
    "Average of energy": 0.712893189,
    "Average of danceability": 0.578656347
@@ -98,7 +98,7 @@
    "Average of liveness": 0.365730952,
    "Average of valence": 0.181933333,
    "Average of popularity": 44.33333333,
-   "Average of acousticness": 0.118142929,
+   "Average of acousticness": 0.5142929,
    "Average of speechiness": 0.036857143,
    "Average of energy": 0.6305,
    "Average of danceability": 0.363452381
@@ -111,7 +111,7 @@
    "Average of liveness": 0.203791304,
    "Average of valence": 0.30066087,
    "Average of popularity": 34.39130435,
-   "Average of acousticness": 0.442634957,
+   "Average of acousticness": 0.642634957,
    "Average of speechiness": 0.049973913,
    "Average of energy": 0.576,
    "Average of danceability": 0.505217391
@@ -124,7 +124,7 @@
    "Average of liveness": 0.37,
    "Average of valence": 0.945,
    "Average of popularity": 33,
-   "Average of acousticness": 0.132,
+   "Average of acousticness": 0.32,
    "Average of speechiness": 0.0297,
    "Average of energy": 0.619,
    "Average of danceability": 0.702
@@ -241,7 +241,7 @@
    "Average of liveness": 0.191825,
    "Average of valence": 0.3407,
    "Average of popularity": 31.25,
-   "Average of acousticness": 0.01030835,
+   "Average of acousticness": 0.667030835,
    "Average of speechiness": 0.0623,
    "Average of energy": 0.834,
    "Average of danceability": 0.56475
@@ -306,7 +306,7 @@
    "Average of liveness": 0.16985,
    "Average of valence": 0.7005,
    "Average of popularity": 46.5,
-   "Average of acousticness": 0.1809,
+   "Average of acousticness": 0.809,
    "Average of speechiness": 0.0355,
    "Average of energy": 0.7155,
    "Average of danceability": 0.692
@@ -1931,6 +1931,19 @@
    "Average of liveness": 0.131226,
    "Average of valence": 0.68014,
    "Average of popularity": 11.2,
+   "Average of acousticness": 0.50163,
+   "Average of speechiness": 0.060894,
+   "Average of energy": 0.614328,
+   "Average of danceability": 0.63736
+ },
+ {
+   "continent": "Europe",
+   "country full": "United Kingdom",
+   "country": "GBR",
+   "Average of tempo": 112.31438,
+   "Average of liveness": 0.131226,
+   "Average of valence": 0.68014,
+   "Average of popularity": 82.2,
    "Average of acousticness": 0.50163,
    "Average of speechiness": 0.060894,
    "Average of energy": 0.614328,

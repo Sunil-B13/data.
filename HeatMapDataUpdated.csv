@@ -1,0 +1,65 @@
+Comp X,Comp Y,Correlation
+Energy,Energy,1
+Energy,Speechiness,-1
+Energy,Instrumentalness,0.6
+Energy,Valence,0.5
+Energy,Tempo,0.9
+Energy,Popularity,0.5
+Energy,Danceability  ,0.9
+Energy,Acousticness ,-0.7
+Speechiness,Energy,-1
+Speechiness,Speechiness,1
+Speechiness,Instrumentalness,-0.7
+Speechiness,Valence,0.8
+Speechiness,Tempo,0
+Speechiness,Popularity,0.6
+Speechiness,Danceability  ,-0.8
+Speechiness,Acousticness ,-0.6
+Instrumentalness,Energy,0.6
+Instrumentalness,Speechiness,-0.7
+Instrumentalness,Instrumentalness,1
+Instrumentalness,Valence,0.6
+Instrumentalness,Tempo,0.6
+Instrumentalness,Popularity,0.3
+Instrumentalness,Danceability  ,0.7
+Instrumentalness,Acousticness ,0.5
+Valence,Energy,0.5
+Valence,Speechiness,0.8
+Valence,Instrumentalness,0.6
+Valence,Valence,1
+Valence,Tempo,0.8
+Valence,Popularity,-0.3
+Valence,Danceability  ,0.8
+Valence,Acousticness ,0.8
+Tempo,Energy,0.9
+Tempo,Speechiness,0
+Tempo,Instrumentalness,0.6
+Tempo,Valence,0.8
+Tempo,Tempo,1
+Tempo,Popularity,0.01
+Tempo,Danceability  ,0.9
+Tempo,Acousticness ,0.1
+Popularity,Energy,0.5
+Popularity,Speechiness,0.6
+Popularity,Instrumentalness,0.3
+Popularity,Valence,-0.3
+Popularity,Tempo,0.01
+Popularity,Popularity,1
+Popularity,Danceability  ,0.8
+Popularity,Acousticness ,-0.6
+Danceability  ,Energy,0.9
+Danceability  ,Speechiness,-0.8
+Danceability  ,Instrumentalness,0.7
+Danceability  ,Valence,0.8
+Danceability  ,Tempo,0.9
+Danceability  ,Popularity,0.8
+Danceability  ,Danceability  ,1
+Danceability  ,Acousticness ,-0.4
+Acousticness ,Energy,-0.7
+Acousticness ,Speechiness,-0.6
+Acousticness ,Instrumentalness,0.5
+Acousticness ,Valence,0.8
+Acousticness ,Tempo,0.1
+Acousticness ,Popularity,-0.6
+Acousticness ,Danceability  ,-0.4
+Acousticness ,Acousticness ,1
